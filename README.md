@@ -513,15 +513,3 @@ ammonit-ai-erp/
 ```
 
 ---
-
-## License
-
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines here]
-
-## Support
-
-For issues and questions, please contact [your contact information].
